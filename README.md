@@ -40,3 +40,16 @@ A **C++ console application** for managing library operations with **MySQL datab
 - **Libraries**:
   - MySQL Connector/C++(https://dev.mysql.com/downloads/connector/cpp/)
   - OpenSSL (for password hashing)(https://slproweb.com/products/Win32OpenSSL.html)
+
+## Usage
+
+### Start the Application
+1. Launch the application.
+
+### Login Using Your Credentials
+- **Admin Credentials** (default):
+  - **Username**: `admin`
+  - **Password**: `admin123A/`
+  
+- **Student Credentials**:
+  - Student accounts can be created by the admin.
